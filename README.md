@@ -1,10 +1,10 @@
-# 🚀 Estudo com React + Next.js
+#  Estudo com React + Next.js
 
 Repositório dedicado à prática e exploração dos principais conceitos do ecossistema **React** com suporte e estrutura do **Next.js**. Criado com foco em aprendizado, organização de código e componentes reutilizáveis.
 
 ---
 
-## 🎯 Propósito
+##  Propósito
 
 A ideia é construir uma base sólida e visual dos fundamentos do React, enquanto exploramos a estrutura moderna que o Next.js oferece para aplicações escaláveis.
 
@@ -77,8 +77,5 @@ Acesse em: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-> *“Estudar React é entender a base da web moderna. Next.js vem pra dar estrutura à bagunça com estilo e performance.* ”
-
----
 
 💻 *Feito com foco, café e muita curiosidade.*
