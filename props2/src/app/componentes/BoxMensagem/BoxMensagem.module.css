@@ -1,0 +1,33 @@
+.box_mensagem {
+  padding: 20px 10px 15px;
+  max-width: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  border-radius: 8px;
+  background-color: #0cc0df;
+}
+
+.box_mensagem h2 {
+  color: white;
+  font-family: 'verdana';
+  font-size: 16px;
+}
+
+.conteudo_mensagem {
+  background-color: white;
+  flex: 1 1 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: space-evenly;
+  padding: 0px 5px 0px;
+}
+
+.conteudo_mensagem img {
+  width: 100%;
+  height: 140px;
+}

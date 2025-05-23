@@ -1,0 +1,19 @@
+.conteudo {
+  display: flex;
+  flex-direction: column;
+}
+
+.conteudo h1 {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid;
+  text-align: center;
+}
+
+.mensagens_box {
+  padding: 40px 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 40px;
+}
